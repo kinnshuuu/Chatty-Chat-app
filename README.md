@@ -1,6 +1,5 @@
 # Chatty - Chat Application 
-Chatty is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
-
+Chatty is a chat application built with MERN Stack.
 
 ![login page](./images/chatty_login.png)
 
