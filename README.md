@@ -1,9 +1,6 @@
 # Chatty - Chat Application 
 Chatty is a chat application built with MERN Stack.
 
-![login page](./images/chatty_login.png)
-
-![home page](./images/chatty.png)
 
 ## Installation Guide
 
